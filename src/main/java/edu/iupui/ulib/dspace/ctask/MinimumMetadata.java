@@ -1,9 +1,3 @@
-/*
- * Copyright 2017 Indiana University.  All rights reserved.
- *
- * Mark H. Wood, IUPUI University Library, Jul 20, 2017
- */
-
 package edu.iupui.ulib.dspace.ctask;
 
 /*-
